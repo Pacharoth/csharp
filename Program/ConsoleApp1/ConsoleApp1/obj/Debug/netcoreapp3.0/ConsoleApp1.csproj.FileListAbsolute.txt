@@ -1,0 +1,11 @@
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+F:\Flash\Study program\c sharp\Program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
